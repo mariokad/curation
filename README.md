@@ -8,3 +8,20 @@ A web application that allows users to curate a personal collection of visual di
 * [Express](http://expressjs.com/)
 
 ## Getting Started
+Install npm to get dependencies
+```
+$ npm install
+```
+Install React and React-DOM
+```
+$ npm install react
+$ npm install react react-dom
+```
+Install mySQL
+```
+$ npm install mysql
+```
+Install express
+```
+$ npm install express
+```
