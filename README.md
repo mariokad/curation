@@ -19,7 +19,7 @@ $ npm install react react-dom
 ```
 Install mySQL
 ```
-$ npm install mysql
+$ brew install mysql
 ```
 Install express
 ```
